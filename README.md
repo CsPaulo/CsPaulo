@@ -1,16 +1,11 @@
-### Hi there 👋
 
-<!--
-**CsPaulo/CsPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/CsPaulo"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CsPaulo&show_icons=true&theme=dark&icon_color=000000"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/Cspaulo"><img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?username=CsPaulo&theme=dark&langs_count=8&count_private=true&layout=compact/></a>
+    </td>
+  </tr>
+</table>
